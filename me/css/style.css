@@ -1,0 +1,13 @@
+body{
+  background-color: yellow;
+  padding-top: 100px;
+}
+.row{
+  margin-bottom:10px;
+  text-align: center;
+}
+
+img{
+  width: 100%;
+  border: 5px solid #000;
+}
